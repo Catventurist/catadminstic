@@ -1,0 +1,579 @@
+{
+  "auth": {
+    "agree": "Hyväksy",
+    "createAccount": "Luo tili",
+    "createNewAccount": "Luo uusi tili",
+    "email": "Sähköposti",
+    "login": "Kirjaudu",
+    "password": "Salasana",
+    "recover_password": "Palauta salasana",
+    "sign_up": "Rekisteröidy",
+    "keep_logged_in": "Pysy kirjautuneena",
+    "termsOfUse": "Käyttöehdot",
+    "reset_password": "Resetioi salasana"
+  },
+  
+  "404": {
+    "title": "Sivu on hävinnyt",
+    "text": "Jos on mainittavaa, ota yhteyttä.",
+    "back_button": "Takaisin laudalle"
+  },
+  "rating": {
+    "singleIcon": "Yksi kuvake",
+    "twoIcons": "Kaksi kuvaketta",
+    "large": "Suuret",
+    "numbers": "Numerot",
+    "halves": "Puolikkaat",
+    "small": "Pienet"
+  },
+  "typography": {
+    "primary": "Ensisijaiset tekstityylit",
+    "secondary": "Toissijaiset tekstityylit"
+  },
+  "colorPickers": {
+    "simple": "Simppeli",
+    "slider": "Liukusäädin",
+    "advanced": "Edistynyt"
+  },
+  "buttons": {
+    "advanced": "Kuvakkeet, ryhmät, valikot",
+    "size": "Painikkeen koot",
+    "tags": "Painikkeen tunnisteet",
+    "button": "Painike",
+    "buttonGroups": "Painikeryhmät",
+    "buttonsDropdown": "Valikkopainikkeet",
+    "split": "Lohkaistu",
+    "splitTo": "Lohkaise",
+    "customIcon": "Mukautettu kuvake",
+    "content": "Sisältö",
+    "buttonToggles": "Nappulat",
+    "pagination": "Sivunumerointi",
+    "a-link": "Avaa EpicSpinners",
+    "router-link": "Siirry kaavioihin",
+    "colors": "Värit",
+    "disabled": "Poistettu",
+    "dropdown": "Alasvetovalikot",
+    "hover": "Häilynnät",
+    "types": "Tyypit",
+    "pressed": "Painettu",
+    "default": "Oletus",
+    "outline": "Ääriviiva",
+    "flat": "Litteä",
+    "large": "Suuri",
+    "small": "Pieni",
+    "normal": "Normaali",
+    "success": "Onnistui",
+    "info": "Tietoa",
+    "danger": "Vaara",
+    "warning": "Varoitus",
+    "gray": "Harmaa",
+    "dark": "Tumma"
+  },
+  "charts": {
+    "horizontalBarChart": "Pylväsdiagrammi",
+    "verticalBarChart": "Vertikaalinen kaavio",
+    "lineChart": "Viivakaavio",
+    "pieChart": "Ympyrädiagrammi",
+    "donutChart": "Donitsikaavio",
+    "bubbleChart": "Kuplakaavio"
+  },
+  "collapse": {
+    "basic": "Perustaitto",
+    "collapseWithBackground": "Taite taustaan",
+    "collapseWithCustomHeader": "Taite mukautettuun otsikkoon",
+    "firstHeader": "Laajenna lohko",
+    "secondHeader": "Toinen lohko",
+    "content": {
+      "title": "Hienoja juttuja",
+      "text": "Appilan pappilan apupapin papupata pankolla kiehuu ja kuohuu. Appilan pappilan piski, paksuposki, pakkas kapsäkin ja pinkaisi juoksuun. Appilan pappilan piski, paksuposki pisti apupapin papupadan poskeensa."
+    }
+  },
+  "sliders": {
+    "slider": "Liukusäätimet",
+    "range": "Alueet",
+    "simple": "simppeli",
+    "value": "arvo",
+    "label": "Merkki",
+    "labelPlusIcon": "merkki + kuvake",
+    "pins": "Nastat",
+    "pinsAndValue": "Nastat & arvo",
+    "withInput": "Syötteillä",
+    "withIcons": "Kuvakkeilla"
+  },
+  "popovers": {
+    "popover": "Ponnahdusikkuna",
+    "popoverStyle": "Ponnahdusikkunan tyyli",
+    "popoverPlacement": "Ponnahdusikkunan paikka",
+    "minimalTooltip": "Minimaalinen vihje",
+    "anotherOneTooltip": "Toinen vihje"
+  },
+  "datepickers": {
+    "dateOfBirth": "Syntymäpäivä",
+    "daysOfTheWeek": "Viikonpäivät",
+    "setupMeeting": "Varaa tapaaminen",
+    "upcomingVacation": "Tuleva loma",
+    "multipleAndDisabledDates": "Useita & poistettuja päiviä",
+    "inline": "Linjassa"
+  },
+  "dashboard": {
+    "versions": "Versiot",
+    "setupRemoteConnections": "Aseta yhteydet",
+    "currentVisitors": "Vierailijat",
+    "charts": {
+      "trendyTrends": "Trendit",
+      "showInMoreDetail": "Näytä enemmän tietoja",
+      "showInLessDetail": "Näytä vähemmän tietoja",
+      "loadingSpeed": "Latausnopeus",
+      "topContributors": "Ahkerimmat",
+      "showNextFive": "Seuraava viisikko",
+      "commits": "Saattoja"
+    },
+    "info": {
+      "componentRichTheme": "komponenttirikas teema",
+      "completedPullRequests": "valmistuneet vetopyynnöt",
+      "users": "käyttäjät",
+      "points": "pisteet",
+      "units": "yksiköt",
+      "exploreGallery": "Selaa galleriaa",
+      "viewLibrary": "Katso kirjastoja",
+      "commits": "saattoja",
+      "components": "komponentteja",
+      "teamMembers": "jäseniä"
+    },
+    "table": {
+      "title": "Hieno taulukko",
+      "brief": "Lyhyt",
+      "detailed": "Yksityiskohtainen",
+      "resolve": "Ratkaisu",
+      "resolved": "Ratkaistu"
+    },
+    "tabs": {
+      "overview": {
+        "title": "Yleiskatsaus",
+        "built": "Alustana Vue.js",
+        "free": "Avoin kaikille",
+        "fresh": "Uudet mallit",
+        "mobile": "Reagoiva, optimoitu mobiilille",
+        "components": "Paljon käteviä komponentteja",
+        "nojQuery": "Ei jQuery:ä"
+       },
+       "billingAddress": {
+        "title": "Laskutusosoite",
+        "personalInfo": "Henkilötiedot",
+        "firstName": "Etunimi & sukunimi",
+        "email": "Sähköposti",
+        "address": "Osoite",
+        "companyInfo": "Firman tiedot",
+        "city": "Kaupunki",
+        "country": "Maa",
+        "infiniteConnections": "Loputtomasti yhteyksiä",
+        "addConnection": "Lisää yhteys"
+      },
+      "bankDetails": {
+        "title": "Tilitiedot",
+        "detailsFields": "Tietokentät",
+        "bankName": "Pankin nimi",
+        "accountName": "Tilin nimi",
+        "sortCode": "Lajittelukoodi",
+        "accountNumber": "Tilinumero",
+        "notes": "Muistio",
+        "sendDetails": "Lähetä tiedot"
+      }
+  },
+  "navigationLayout": "Navigoinnin asettelu",
+  "topBarButton": "Yläpalkki",
+  "sideBarButton": "Sivupalkki"
+},
+  "notificationsPage": {
+    "notifications": {
+      "title": "Ilmoitukset",
+      "gray": "Prosessoidaan",
+      "dark": "Uusi nimiö",
+      "success": "Onnistui",
+      "successMessage": "Luit tämän onnistuneesti.",
+      "info": "Tietoa",
+      "infoMessage": "Etsitään huomiota.",
+      "warning": "Odottaa",
+      "warningMessage": "Tarkasta tämä.",
+      "danger": "Vaara",
+      "dangerMessage": "Vaihda jotain ja yritä uudelleen."
+    },
+    "popovers": {
+      "title": "Vihjeet & Ponnahdusikkunat",
+      "popoverTitleLabel": "Ponnahdusikkunan nimi",
+      "popoverTextLabel": "Ponnahdusikkunan kuvaus",
+      "popoverIconLabel": "Ponnahdusikkunan kuvake(fontawesome)",
+      "showPopover": "Näytä Ponnahdusikkuna",
+      "topTooltip": "ylhäällä",
+      "rightTooltip": "oikealla",
+      "leftTooltip": "vasemmalla",
+      "bottomTooltip": "alhaalla"
+    },
+    "Toasts": {
+      "title": "Toastit",
+      "textLabel": "Teksti",
+      "durationLabel": "Kesto (millisekunteja)",
+      "iconLabel": "Kuvake (fontawesome)",
+      "fullWidthLabel": "Täysi leveys",
+      "launchToast": "Käynnistä toast"
+    }
+  },
+  "forms": {
+    "controls": {
+      "title": "Valintaruudut, radiot, kytkimet",
+      "radioDisabled": "Radio poissa",
+      "radio": "Radio",
+      "subscribe": "Tilaa uutiskirje",
+      "unselected": "Tyhjä valintaruutu",
+      "selected": "Valittu ruutu",
+      "readonly": "Vain luku",
+      "disabled": "Poistettu valintaruutu",
+      "error": "Virhe valintaruudussa",
+      "errorMessage": "Valintaruudun virheteksti"
+    },
+    "dateTimePicker": {
+      "title": "Aikavalinnat",
+      "basic": "Perus",
+      "time": "Aika",
+      "range": "Alueet",
+      "manualInput": "Manuaalinen syöte",
+      "multiple": "Useita",
+      "disabled": "Poistettu",
+      "customFirstDay": "Mukautettu eka päivä",
+      "customDateFormat": "Mukautettu aikamuoto"
+    },
+    "inputs": {
+      "emailValidatedSuccess": "Sähköposti (vahvistettu onnistuneesti)",
+      "emailValidated": "Sähköposti(vahvistettu)",
+      "inputWithIcon": "Syöte kuvakkeella",
+      "inputWithButton": "Syöte painikkeella",
+      "inputWithClearButton": "Syöte tyhjennyspainikkeella",
+      "inputWithRoundButton": "Syöte pyöreällä painikkeella",
+      "textInput": "Tekstisyöte",
+      "textInputWithDescription": "Tekstisyöte (kuvauksella)",
+      "textArea": "Tekstialue",
+      "title": "Syötteet",
+      "upload": "Lataa"
+    },
+    "mediumEditor": {
+      "title": "Medium Editor"
+    },
+    "selects": {
+      "country": "Maavalinta",
+      "countryMulti": "Useiden maiden valinta",
+      "multi": "Valitse usea",
+      "simple": "Valitse yksi",
+      "title": "Valinnat"
+    }
+  },
+  "grid": {
+    "desktop": "Työpöydän ruudukko",
+    "fixed": "Korjattu ruudukko",   
+    "offsets": "Tasoitteet", 
+    "responsive": "Reagoiva ruudukko"
+    
+  },
+  "icons": {
+    "back": "Takaisin kuvakkeisiin",
+    "none": "Kuvakkeita ei löytynyt",
+    "search": "Etsi kuvakkeita",
+    "title": "Kuvakkeet"
+  },
+   "spinners": {
+    "title": "Lataajat",
+    "poweredBy": "Käyttää"
+  },
+  "language": {
+    "brazilian_portuguese": "Portugali",
+    "english": "Englanti",
+    "finnish": "Suomi",
+    "spanish": "Espanja",
+    "simplified_chinese": "Simppeli Kiina",
+    "persian": "Persia"
+  },
+  "menu": {
+    "auth": "Varmennus",
+    "rating": "Arvostelu",
+    "buttons": "Painikkeet",
+    "charts": "Kuvaajat",
+    "colorPickers": "Värivalinnat",
+    "collapses": "Luhistus",
+    "timelines": "Aikajanat",
+    "dashboard": "Lauta",
+    "formElements": "Lomake-elementit",
+    "forms": "Lomakkeet",
+    "mediumEditor": "Medium Editor",
+    "grid": "Ruudukot",
+    "icons": "Kuvakkeet",
+    "cards": "Kortit",
+    "spinners": "Lataajat",
+    "login": "Kirjautuminen",
+    "maps": "Kartat",
+    "pages": "Sivut",
+    "modals": "Modaalit",
+    "notifications": "Ilmoitukset",
+    "progressBars": "Edistymispalkit",
+    "signUp": "Rekisteröinti",
+    "statistics": "Tilastot",
+    "lists": "Listat",
+    "tables": "Taulukot",
+    "markupTables": "Markup-taulukot",
+    "dataTables": "Datataulukot",
+    "chips": "Sirut",
+    "tabs": "Välilehdet",
+    "typography": "Typografia",
+    "uiElements": "UI-elementit",
+    "treeView": "Puunäkymät",
+    "dateTimePickers": "Aikavalinnat",
+    "fileUpload": "Tiedostojen lataus",
+    "colors": "Värit",
+    "spacing": "Jaotukset",
+    "sliders": "Liukusäätimet",
+    "popovers": "Ponnahdusikkunat",
+    "chat": "Chat",
+    "login-singup": "Kirjautumiset",
+    "404-pages": "404-sivut",
+    "faq": "UKK"
+  },
+  "messages": {
+    "all": "Katso kaikki",
+    "new": "Käyttäjältä {name}",
+    "mark_as_read": "Merkitse luetuksi"
+  },
+  "modal": {
+    "cancel": "Peruuta",
+    "close": "Sulje",
+    "confirm": "Vahvista",
+    "large": "Suuri",
+    "largeTitle": "Iso modaali",
+    "medium": "Sopiva",
+    "mediumTitle": "Sopiva modaali",
+    "small": "Pieni",
+    "smallTitle": "Pieni modaali",
+    "static": "Staattinen",
+    "staticMessage": "Tämä on staattinen modaali. Taustaklikkaus tai esc ei sulje tätä.",
+    "staticTitle": "Staattinen modaali",
+    "title": "Modaalit",
+    "fullscreen": "Koko ruutu",
+    "titleOptions": "Modaaliasetukset",
+    "blurred": "Sumennettu peittokuva",
+    "withAnchorSlot": "Ankkuripaikalla",
+    "message": "There are three species of zebras: the plains zebra, the mountain zebra and the Grévy's zebra. The plains zebra and the mountain zebra belong to the subgenus Hippotigris, but Grévy's\n        zebra is the sole species of subgenus\n        Dolichohippus. The latter resembles an ass, to which it is closely\n        related, while the former two are more\n        horse-like. All three belong to the genus Equus, along with other living\n        equids."
+  },
+  "dropdown": {
+    "default": "Oletus",
+    "withArrow": "Nuolella",
+    "note": "Merkintä",
+    "noteText": "Dropdown will open in the specified direction if there is enough space on the screen, otherwise the direction will automatically change",
+    "top": "Ylhäällä",
+    "right": "Oikealla",
+    "bottom": "Alhaala",
+    "left": "Vasemmalla"
+  },
+  "fileUpload": {
+    "advancedMediaGallery": "Edistynyt mediagalleria",
+    "advancedUploadList": "Edistynyt Latauslista",
+    "mediaGallery": "Mediagalleria",
+    "uploadList": "Latauslista",
+    "single": "Yksi",
+    "dragNdropFiles": "Raahaa tiedostoja",
+    "uploadedOn": "Ladattu",
+    "fileDeleted": "Tiedosto poistettu onnistuneesti",
+    "undo": "Kumoa",
+    "preview": "Esikatsele",
+    "delete": "Poista",
+    "deleteFile": "Poista tiedosto",
+    "uploadFile": "Lataa tiedosto",
+    "uploadMedia": "Lataa media",
+    "addAttachment": "Lisää liite",
+    "modalTitle": "Tiedoston varmistus",
+    "modalText": "Väärä tiedostomuoto!"
+  },
+   "chips": {
+    "chips": {
+      "title": "Sirut",
+      "primary": "Ensisijainen siru",
+      "secondary": "Toissijainen siru",
+      "success": "Onnistumissiru",
+      "info": "Tietosiru",
+      "danger": "Vaarasiru",
+      "warning": "Varoitussiru",
+      "gray": "Harmaa siru",
+      "dark": "Tumma siru"
+    },
+    "badges": {
+      "title": "Merkit",
+      "primary": "Ensisijainen merkki",
+      "secondary": "Toissijainen merkki",
+      "success": "Onnistumismerkki",
+      "info": "Tietomerkki",
+      "danger": "Vaaramerkki",
+      "warning": "Varoitusmerkki",
+      "gray": "Harmaa merkki",
+      "dark": "Tumma merkki"
+    }
+  },
+  "navbar": {
+    "messageUs": "Kommentoi tai kysele",
+    "repository": "GitHub"
+  },
+  "notifications": {
+    "all": "Katso kaikki ilmoitukset",
+    "mark_as_read": "Merkitse luetuksi",
+    "sentMessage": "{name} lähetti viestin",
+    "uploadedZip": "{name} latasi Zip-tiedoston {type}",
+    "startedTopic": "{name} aloitti uuden keskustelun"
+  },
+   "timelines": {
+    "horizontalSimple": "Horisontaali yksinkertainen",
+    "horizontalCards": "Horisontaaliset kortit",
+    "verticalSimple": "Vertikaali yksinkertainen",
+    "verticalLabel": "Vertikaalinen tunnus",
+    "verticalCentered": "Vertikaalinen keskitetty",
+    "horizontalActionFirst": "Viimeistele luonnos",
+    "horizontalActionSecond": "Julkaise sivu",
+    "horizontalActionThird": "Aloita ICO",
+    "titleFirst": "Suunnittele",
+    "titleSecond": "Kehitä ohjelma",
+    "titleThird": "Lähetä ohjelma",
+    "titleDateFirst": "",
+    "titleDateSecond": "Huhti 22 10:00",
+    "titleDateThird": "Heinä 19 17:45",
+    "firstDate": "Helmi 2018",
+    "secondDate": "Maalis 2018",
+    "thirdDate": "Elo 2018",
+    "contentFirst": "The unique stripes of zebras make them one of the animals most familiar to people. They occur in a variety of habitats, such as grasslands, savannas, woodlands, thorny scrublands.",
+    "contentSecond": "They occur in a variety of habitats, such as grasslands, savannas, woodlands, thorny scrublands.",
+    "contentThird": "However, various anthropogenic factors have had a severe impact on zebra populations"
+  },
+  "progressBars": {
+    "circle": "Pyöreä",
+    "horizontal": "Horisontaali",
+    "state": "Tila",
+    "colors": "Värit"
+  },
+  "lists": {
+    "customers": "Asiakkaat",
+    "recentMessages": "Viimeisimmät viestit",
+    "archieved": "Arkistoiti",
+    "starterKit": "Aloituspaketti",
+    "notifications": "Ilmoitukset",
+    "routerSupport": "Reititintuki"
+  },
+  "tables": {
+    "basic": "Perustaulukot",
+    "stripedHoverable": "Raidallinen, leijuva",
+    "labelsActions": "Tarrat, Painiketoiminnot",
+    "sortingPaginationActionsAsIcons": "Lajittelu, sivutus, kuvaketoiminnot",
+    "star": "Tähti",
+    "unstar": "Poista tähti",
+    "edit": "Muokkaa",
+    "delete": "Poista",
+    "searchByName": "Etsi nimellä",
+    "searchTrendsBadges": "Etsi, Trendit, Merkit",
+    "perPage": "Sivulla",
+    "report": "Raportoi",
+    "infiniteScroll": "Loputon rullaus",
+    "selectable": "Valittavissa",
+    "selected": "Valittu",
+    "serverSidePagination": "Palvelinsivutus",
+    "emptyTable": "Tyhjä taulukko",
+    "noDataAvailable": "Tietoa ei saatavilla",
+    "noReport": "Ei näytettävää tietoa. Raportti julkaistaan joskus.",
+    "loading": "Ladataan",
+    "headings": {
+      "email": "Sähköposti",
+      "name": "Nimi",
+      "firstName": "Etunimi",
+      "lastName": "Sukunimi",
+      "status": "Tila",
+      "country": "Maa",
+      "location": "Sijainti"
+    }
+  },
+  "user": {
+    "language": "Vaihda kieli",
+    "logout": "Kirjaudu ulos",
+    "profile": "Profiili"  
+  },
+  "treeView": {
+    "basic": "Perus",
+    "icons": "Kuvakkeet",
+    "selectable": "Valittavissa",
+    "editable": "Muokattavissa",
+    "advanced": "Edistynyt"
+  },
+  "chat": {
+    "title": "Chat",
+    "sendButton": "Lähetä"
+  },
+  "spacingPlayground": {
+    "value": "Arvo",
+    "margin": "Reuna",
+    "padding": "Täyte"
+  },
+  "spacing": {
+    "title": "Tilat"
+  },
+  "cards": {
+    "cards": "Kortit",
+    "fixed": "Korjattu",
+    "floating": "Leijuva",
+    "contentText": "The unique stripes of zebras make them one of the animals most familiar to people.",
+    "contentTextLong": "The unique stripes of zebras make them one of the animals most familiar to people. They occur in a variety of habitats, such as grasslands, savannas, woodlands, thorny scrublands, mountains, and coastal hills. Various anthropogenic factors have had a severe impact on zebra populations, in particular hunting for skins and habitat destruction. Grévy's zebra and the mountain zebra are endangered. While plains zebras are much more plentiful, one subspecies, the quagga.",
+    "rowHeight": "Rivikorkeus",
+    "title": {
+      "default": "Oletus",
+      "withControls": "Säätimillä",
+      "customHeader": "Mukautettu otsikko",
+      "withoutHeader": "Ilman otsikkoa",
+      "withImage": "Kuvalla",
+      "withTitleOnImage": "Otsikolla tai kuvalla",
+      "withCustomTitleOnImage": "Mukautetulla otsikolla tai kuvalla",
+      "withStripe": "Raidoilla",
+      "withBackground": "Taustalla"
+    },
+    "button": {
+      "main": "Pää",
+      "cancel": "Peruuta",
+      "showMore": "Näytä lisää",
+      "readMore": "Lue lisää"
+    },
+    "link": {
+      "edit": "Muokkaa",
+      "setAsDefault": "Aseta oletukseksi",
+      "delete": "Poista",
+      "traveling": "Matkoilla",
+      "france": "Ranska",
+      "review": "Arvostele",
+      "feedback": "Jätä palautetta",
+      "readFull": "Lue koko artikkeli",
+      "secondaryAction": "Toissijainen toiminto",
+      "action1": "Toiminto 1",
+      "action2": "Toiminto 2"
+    }
+  },
+  "colors": {
+    "themeColors": "Teeman värit",
+    "extraColors": "Ylimääräiset värit",
+    "gradients": {
+      "basic": {
+        "title": "Painikkeiden gradientit"
+      },
+      "hovered": {
+        "title": "Leijuvan painikkeen gradientti",
+        "text": "Lighten 15% applied to an original style (gradient or flat color) for hover state."
+      },
+      "pressed": {
+        "title": "Painetun painikkeen gradientti",
+        "text": "Darken 15% applied to an original style (gradient or flat color) for pressed state."
+      }
+    }
+  },
+    "tabs": {
+    "alignment": "Välilehtien suuntaus",
+    "overflow": "Välilehtien ylivuoto",
+    "hidden": "Välilehdet piilotetulla liukusäätimellä",
+    "grow": "Kasvavat välilehdet"
+  }
+}

@@ -35,7 +35,7 @@
 
   const { presets, applyPreset, colors } = useColors()
 
-  const currentTheme = ref('light')
+  const currentTheme = ref('original')
 
   watchEffect(() => {
     applyPreset(currentTheme.value)

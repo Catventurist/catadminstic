@@ -32,15 +32,15 @@
   const { init: initToast } = useToast()
 
   const form = ref({
-    bankName: 'Raiffeisen Bank',
-    accountName: 'GoalSaver',
+    bankName: 'Scammers',
+    accountName: 'PreferCrypto',
     sortCode: '6558912',
     accountNumber: '000876432',
-    notes: '',
+    notes: 'nope',
   })
 
   function sendDetails() {
     const color = colors.primary
-    initToast({ message: `Details sent!`, color })
+    initToast({ message: `!`, color })
   }
 </script>

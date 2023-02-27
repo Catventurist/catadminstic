@@ -1,15 +1,25 @@
 import VaIcon from './components/va-icon'
 import iconsConfig from './icons-config/icons-config'
-// import { COLOR_THEMES } from './themes'
+import { COLOR_THEMES } from './themes'
 
 export default {
-  // colors: {
-  //   presets: {
-  //     original: {
-  //       ...COLOR_THEMES[3].colors,
-  //     },
-  //   },
-  // },
+  colors: {
+    presets: {
+      original: {
+        ...COLOR_THEMES[3].colors,
+        gray: '#babfc2',
+        dark: '#34495e',
+        shadow: '#BF40BF',
+        backgroundPrimary: '#050A10',
+        backgroundSecondary: '#1F262F',
+        backgroundElement: '#131A22',
+        backgroundBorder: '#3D4C58',
+        textPrimary: '#E6E6FA',
+        textInverted: '#0B121A',
+        focus: '#06d6a0',
+      },
+    },
+  },
   icons: iconsConfig,
   breakpoint: {
     enabled: true,
